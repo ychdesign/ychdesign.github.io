@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>array on 于程昊的博客</title>
+    <link>https://ychdesign.github.io/tags/array/</link>
+    <description>Recent content in array on 于程昊的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ychdesign.github.io/tags/array/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>数组</title>
+      <link>https://ychdesign.github.io/post/golang/array/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ychdesign.github.io/post/golang/array/</guid>
+      <description>初始化一位数组 func initArray() []int{ //声明时初始化 a := []int{1,2,3,4} fmt.println(a) //声明后初始化 b := []int{} b = append(b,1) fmt.println(b) // make初始化0值 c = make([]int,1) c[0] = 1 fmt.println(c) } 一维数组排序 //sort包中排</description>
+    </item>
+    
+  </channel>
+</rss>

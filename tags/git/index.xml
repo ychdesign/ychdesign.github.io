@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on 于程昊的博客</title>
+    <link>https://ychdesign.github.io/tags/git/</link>
+    <description>Recent content in git on 于程昊的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ychdesign.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git笔记</title>
+      <link>https://ychdesign.github.io/post/git/git-note/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ychdesign.github.io/post/git/git-note/</guid>
+      <description>一般指令 操作 解释 git config &amp;ndash;list 查看配置 git config &amp;ndash;global &amp;ndash;list 查看全局配置 git config &amp;ndash;add 添加配置，默认加在local中 git config &amp;ndash;unset 删除配置 git status 列出改动记录 git log 列出commit记录</description>
+    </item>
+    
+  </channel>
+</rss>

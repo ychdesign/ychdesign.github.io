@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zuul on 于程昊的博客</title>
+    <link>https://ychdesign.github.io/tags/zuul/</link>
+    <description>Recent content in zuul on 于程昊的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ychdesign.github.io/tags/zuul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>zuul的应用和踩坑记录</title>
+      <link>https://ychdesign.github.io/post/springcloud/zuul/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ychdesign.github.io/post/springcloud/zuul/</guid>
+      <description>Zuul hystrix的两种策略模式 线程池模式 信号量模式 线程池 优点：通过线程池分配线程进行处理，不需要同步等待，可以设置超时时间，超时则进行超时处</description>
+    </item>
+    
+  </channel>
+</rss>
